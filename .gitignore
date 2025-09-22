@@ -94,3 +94,4 @@ temp/
 # OS generated files
 Thumbs.db
 
+package-lock.json
